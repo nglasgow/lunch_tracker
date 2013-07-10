@@ -1,0 +1,3 @@
+Lunch Tracker
+
+Lunch tracker was created to help a user monitor the food intake and calories using their computer. 
